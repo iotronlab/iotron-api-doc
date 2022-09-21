@@ -1,0 +1,16 @@
+_id: env_7f3241e6d222439f8aafbcc240c3f3e3
+type: Environment
+parentId: env_accde6c19932cd4e36a0796ab36dafb7473190ad
+modified: 1663764436342
+created: 1663764416212
+name: dev
+data:
+  base_url: http://localhost:8000/api
+  base_version: http://localhost:8000/api/v1
+dataPropertyOrder:
+  "&":
+    - base_url
+    - base_version
+color: "#28d24a"
+isPrivate: false
+metaSortKey: 1663764416212

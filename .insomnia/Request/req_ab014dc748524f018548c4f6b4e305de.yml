@@ -1,0 +1,36 @@
+_id: req_ab014dc748524f018548c4f6b4e305de
+type: Request
+parentId: fld_f931c0dbd6a24f43b5f563e8a4892491
+modified: 1663764664416
+created: 1663764356612
+url: "{{ _.base_url }}/forms/contact"
+name: Submit contact form
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "demos",
+    	"location": "Kolkata,Park Street",
+    	"email": "demo@gmail.org",
+    	"contact": "Kolkata,Park Street",
+    	"category": "sdsd",
+    	"business_link": "1",
+    	"referrer": "1",
+    	"query": "sdsd"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a8b6504e985e4140b380b6e7ba239270
+authentication: {}
+metaSortKey: -1663764508281.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
