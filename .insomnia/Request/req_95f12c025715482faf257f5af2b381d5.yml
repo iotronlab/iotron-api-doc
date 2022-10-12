@@ -1,0 +1,21 @@
+_id: req_95f12c025715482faf257f5af2b381d5
+type: Request
+parentId: fld_33c658d5ed8f4357b8b65500886727c0
+modified: 1664110696001
+created: 1664110646454
+url: "{{ _.base_url }}/interns"
+name: Get Intern details
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1664110646454
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

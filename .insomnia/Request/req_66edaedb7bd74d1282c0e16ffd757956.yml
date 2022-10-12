@@ -1,0 +1,21 @@
+_id: req_66edaedb7bd74d1282c0e16ffd757956
+type: Request
+parentId: fld_78b01a37f1bf4c1daaa2e884f6431781
+modified: 1664110723883
+created: 1664110697753
+url: "{{ _.base_url }}/blogs"
+name: Get all Blogs
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1664110697753
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_af463e1836b34248b3f08cf9cdb83f0a
+type: Request
+parentId: fld_78b01a37f1bf4c1daaa2e884f6431781
+modified: 1664110769300
+created: 1664110749260
+url: "{{ _.base_url }}/blogs/ut-et-animi-accusamus"
+name: Get One Blog
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1664110672103.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
