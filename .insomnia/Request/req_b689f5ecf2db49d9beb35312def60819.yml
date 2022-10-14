@@ -1,0 +1,21 @@
+_id: req_b689f5ecf2db49d9beb35312def60819
+type: Request
+parentId: fld_6054c4eba08a47d4947f44054b2983ee
+modified: 1665760986275
+created: 1665760986275
+url: "{{ _.base_url }}/portfolios/perferendis-similique-sed?_debug"
+name: Portfolio Show one
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1620532458968
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
